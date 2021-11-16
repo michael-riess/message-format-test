@@ -1,6 +1,9 @@
 import Translator from './translator';
 import { User, ContentType, Content } from './interfaces';
 
+/**
+ * @todo fill in missing translations
+ */
 const en = {
     'user.content.assigned.message': '',
     'assigned_users.completed.message': '',
