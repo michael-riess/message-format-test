@@ -4,11 +4,13 @@
 
 1. fork form github or stackblitz
 
-2. open `src/translator.spec.ts`
+2. `npm install`
 
-3. add missing MessageFormat translations to `en`
+3. open `src/translator.spec.ts`
 
-4. test your translations by running `npm test`
+4. add missing MessageFormat translations to `en`
+
+5. test your translations by running `npm test`
 
 ### Sources
 
