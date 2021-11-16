@@ -2,7 +2,20 @@ import Translator from './translator';
 import { User, ContentType, Content } from './interfaces';
 
 /**
- * @todo fill in missing translations
+ * Directions:
+ * 1. `npm install`
+ * 2. fill in missing translations e.g.
+ * ```ts
+ * {
+ * 		'user.content.assigned.message': 'my solution here',
+ * 		...
+ * }
+ * ```
+ * 3. test your work w/ `npm test`
+ *
+ * Not sure where to start?
+ * - [Platform Docs](https://platform-docs.teamhive.com/docs/frontend/translations)
+ * - [Message Format Docs - Format Guide](http://messageformat.github.io/messageformat/guide/)
  */
 const en = {
     'user.content.assigned.message': '',
